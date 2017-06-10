@@ -9,6 +9,13 @@ It is meant to support not just large pieces of text pasted/passed in, but also 
 Back when I first made this it really only supported just text. But now I am opening it up for those interested in taking a look.
 And for those who want to modify or improve it. 
 
+**Here's how you can try it**
+
+Simply call the Summarize(string text, int sentenceCount) method.
+
+**Here's how it works**
+
+
 Link to the Android App: https://play.google.com/store/apps/details?id=com.karimo.sumit_final
 
 ![alt text](https://lh3.ggpht.com/OA70Ub6JQ45PIJTYOFKBDbgqdLFpsQ6LkRQEzsxF6bwc_AYPUPHSGoDUWK5UWEHEQW4=h900)
